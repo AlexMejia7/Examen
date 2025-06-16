@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="Atras">Boton Atras</string>
+    <string name="BotonAtras">btnAtras</string>
+    <string name="btnAtras">Atras</string>
+    <string name="Compartir_Contactos">btnCompartirContactos</string>
+    <string name="btnCompartirContactos">Compartir_Contactos</string>
+    <string name="btnEliminarContactos">Eliminar Contactos</string>
+    <string name="btnVerImagen">Ver_Imagen</string>
+    <string name="btnActualizarContactos">Actualizar_Contactos</string>
+</resources>
