@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 "Rois Rodriguez - 32819000\nfrancis@correo.com",
         };
 
-        // Agregar los contactos
+        // Agregar los contactos de todos
         for (int i = 0; i < contactos.length; i++) {
             TextView contacto = new TextView(this);
             contacto.setText(contactos[i]);
